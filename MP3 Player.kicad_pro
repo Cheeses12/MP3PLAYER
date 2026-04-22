@@ -645,13 +645,21 @@
         "uuid": "3c578932-78ab-4bef-a29d-37c47714c1c0"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1,U3,R1,R3,R9,C3-4,C10-11,D1,#PWR1-2,#PWR5,#PWR7-9,#PWR14-16,#PWR21-23,#PWR26,#PWR28",
     "variants": []
   },
   "sheets": [
     [
       "3c578932-78ab-4bef-a29d-37c47714c1c0",
       "MP3 Player"
+    ],
+    [
+      "2420d131-99b1-4de1-86cf-e5bd094272e0",
+      "ESP32-S3"
+    ],
+    [
+      "4af9129b-5bc8-4204-bf85-6f21265eb966",
+      "TLV320DAC3100"
     ]
   ],
   "text_variables": {},
