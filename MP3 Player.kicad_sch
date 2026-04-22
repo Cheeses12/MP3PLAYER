@@ -7899,7 +7899,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 229.87 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -11665,7 +11665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 228.092 106.68 90)
 			(hide yes)
 			(show_name no)

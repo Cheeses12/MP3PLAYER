@@ -2888,7 +2888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32_S3_WROOM_1U_N16R8:XCVR_ESP32-S3-WROOM-1U-N16R8"
+		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1U"
 			(at 90.17 74.93 0)
 			(hide yes)
 			(show_name no)
