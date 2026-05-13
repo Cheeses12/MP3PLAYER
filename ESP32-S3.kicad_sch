@@ -1654,10 +1654,6 @@
 		(uuid "06819797-2841-48f3-9669-e1bb544c00c9")
 	)
 	(no_connect
-		(at 74.93 92.71)
-		(uuid "0feb480f-ab71-481f-815e-972a9aff6f77")
-	)
-	(no_connect
 		(at 105.41 77.47)
 		(uuid "115c85d4-add3-4b95-b2ae-302ed8f7d787")
 	)
@@ -2119,6 +2115,17 @@
 			(justify right)
 		)
 		(uuid "3d4758f8-b7e5-4092-a9ee-19bd69b6cc4f")
+	)
+	(hierarchical_label "CS"
+		(shape output)
+		(at 74.93 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "484ee500-6f0f-4678-8fb3-f31f14f6da2b")
 	)
 	(hierarchical_label "BCLK"
 		(shape output)

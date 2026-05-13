@@ -1427,16 +1427,6 @@
 		)
 		(uuid "f40e5edd-a9a4-474c-a300-a26d24146f74")
 	)
-	(label "1.8"
-		(at 147.32 52.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "37a746b1-f81e-41b6-9d90-3d6a3a06da0b")
-	)
 	(hierarchical_label "SPKM"
 		(shape output)
 		(at 148.59 76.2 0)
@@ -1513,6 +1503,17 @@
 			(justify right)
 		)
 		(uuid "b47cdb31-66ba-41b6-a459-e621e5119678")
+	)
+	(hierarchical_label "DVDD"
+		(shape input)
+		(at 147.32 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d07aa9c6-fa06-47df-9ecd-879e99e57a5c")
 	)
 	(hierarchical_label "HRP"
 		(shape output)
